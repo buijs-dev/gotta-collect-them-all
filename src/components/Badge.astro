@@ -1,0 +1,14 @@
+---
+import {Astro} from "astro/env";
+const { title } = Astro.props
+---
+<style>
+.badge {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
+</style>
+<span class="badge">{title}</span>

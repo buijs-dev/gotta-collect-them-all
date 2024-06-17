@@ -1,0 +1,9 @@
+---
+import '../../../styles/global.css';
+import SetList from '../../../components/SetList.astro';
+import set from '../../../../public/database/carddex/series_xy/set_2.json';
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+---
+<BaseLayout sideBarActiveItemID="home">
+    <SetList set={set}></SetList>
+</BaseLayout>

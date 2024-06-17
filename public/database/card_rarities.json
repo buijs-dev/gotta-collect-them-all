@@ -1,0 +1,13 @@
+{
+    "-1": {"name": "None", "comment":  "This card has no rarity symbol."},
+    "1": {"name": "Common", "comment":  ""},
+    "2": {"name": "Uncommon", "comment":  ""},
+    "3": {"name": "Rare", "comment":  ""},
+    "4": {"name": "Double Rare", "comment":  "Introduced in Scarlet & Violet and is recognizable by 2 black stars."},
+    "5": {"name": "Ultra Rare", "comment":  ""},
+    "6": {"name": "Secret Rare", "comment":  ""},
+    "7": {"name": "Illustration Rare", "comment":  "Introduced in Scarlet & Violet and is recognizable by 1 golden stars."},
+    "8": {"name": "Special Illustration Rare", "comment":  "Introduced in Scarlet & Violet and is recognizable by 2 golden stars."},
+    "9": {"name": "Hyper Rare", "comment":  "Introduced in Scarlet & Violet and is recognizable by 3 golden stars."},
+    "10": {"name": "Promo", "comment":  ""}
+}

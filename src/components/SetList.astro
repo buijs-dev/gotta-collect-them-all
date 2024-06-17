@@ -1,0 +1,40 @@
+---
+import '../styles/global.css';
+import Card from '../components/Card.astro';
+import set from '../../public/database/carddex/series_xy/set_2.json';
+---
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
+    <meta name="viewport" content="width=device-width"/>
+    <meta name="generator" content={Astro.generator}/>
+    <title>{set}</title>
+</head>
+<style>
+    .container {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 200px);
+        grid-row-gap: .5em;
+        grid-column-gap: 1em;
+    }
+
+    .container .item {
+    }
+</style>
+<body>
+<h1>{set.series}: {set.set}</h1>
+<div class="container">
+    {set.cards.map((card)=>
+            <div class="item">
+                <Card title={card.name}
+                      type={card.type}
+                      rarity={card.rarity}
+                      setId={card.setId}
+                      setCount={set.count}>
+                </Card>
+            </div>)}
+</div>
+</body>
+</html>

@@ -1,0 +1,222 @@
+{
+  "index": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "1": {
+    "name": "Classic",
+    "img": "https://archives.bulbagarden.net/media/upload/2/2a/Wizards.png",
+    "index": [],
+    "sets": {}
+  },
+  "2": {
+    "name": "Neo Genesis",
+    "img": "https://archives.bulbagarden.net/media/upload/5/55/Neo_Genesis_Logo_EN.png",
+    "index": [],
+    "sets": {}
+  },
+  "3": {
+    "name": "Legendary Collection",
+    "img": "https://archives.bulbagarden.net/media/upload/8/81/Legendary_Collection_Logo.png",
+    "index": [],
+    "sets": {}
+  },
+  "4": {
+    "name": "e-Card",
+    "img": "https://www.pokemonaaah.net/wp-content/uploads/2021/08/pokemonElogoBest.png",
+    "index": [],
+    "sets": {}
+  },
+  "5": {
+    "name": "EX Ruby & Sapphire",
+    "img": "",
+    "index": [],
+    "sets": {}
+  },
+  "6": {
+    "name": "Diamond & Pearl",
+    "img": "",
+    "index": [],
+    "sets": {}
+  },
+  "7": {
+    "name": "Nintendo Promos",
+    "img": "",
+    "index": [],
+    "sets": {}
+  },
+  "8": {
+    "name": "Platinum",
+    "img": "",
+    "index": [],
+    "sets": {}
+  },
+  "9": {
+    "name": "HeartGold & SoulSilver",
+    "img": "",
+    "index": [],
+    "sets": {}
+  },
+  "10": {
+    "name": "Call of Legends",
+    "img": "",
+    "index": [],
+    "sets": {}
+  },
+  "11": {
+    "name": "Black & White",
+    "img": "",
+    "index": [],
+    "sets": {}
+  },
+  "12": {
+    "name": "X&Y",
+    "img": "",
+    "index": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28],
+    "sets": {
+      "1": {
+        "name": "X&Y Black Star Promos",
+        "path": "xy/1"
+      },
+      "2": {
+        "name": "Kalos Starter Set",
+        "path": "xy/2"
+      },
+      "3": {
+        "name": "X&Y",
+        "path": "xy/3"
+      },
+      "4": {
+        "name": "X&Y Trainer Kit: Sylveon",
+        "path": "xy/4"
+      },
+      "5": {
+        "name": "X&Y Trainer Kit: Noivern",
+        "path": "xy/5"
+      },
+      "6": {
+        "name": "Flashfire",
+        "path": "xy/6"
+      },
+      "7": {
+        "name": "McDonald's Collection: 2014",
+        "path": "xy/7"
+      },
+      "8": {
+        "name": "Furious Fists",
+        "path": "xy/8"
+      },
+      "9": {
+        "name": "X&Y Trainer Kit: Wigglytuff",
+        "path": "xy/9"
+      },
+      "10": {
+        "name": "X&Y Trainer Kit: Bisharp",
+        "path": "xy/10"
+      },
+      "11": {
+        "name": "Phantom Forces",
+        "path": "xy/1"
+      },
+      "12": {
+        "name": "Primal Clash",
+        "path": "xy/12"
+      },
+      "13": {
+        "name": "Double Crisis",
+        "path": "xy/13"
+      },
+      "14": {
+        "name": "X&Y Trainer Kit: Latios",
+        "path": "xy/14"
+      },
+      "15": {
+        "name": "X&Y Trainer Kit: Latias",
+        "path": "xy/15"
+      },
+      "16": {
+        "name": "Roaring Skies",
+        "path": "xy/16"
+      },
+      "17": {
+        "name": "Ancient Origins",
+        "path": "xy/17"
+      },
+      "18": {
+        "name": "Breakthrough",
+        "path": "xy/18"
+      },
+      "19": {
+        "name": "Roaring Skies",
+        "path": "xy/19"
+      },
+      "20": {
+        "name": "McDonald's Collection: 2015",
+        "path": "xy/20"
+      },
+      "21": {
+        "name": "Breakpoint",
+        "path": "xy/21"
+      },
+      "22": {
+        "name": "Generations",
+        "path": "xy/22"
+      },
+      "23": {
+        "name": "X&Y Trainer Kit: Pikachu",
+        "path": "xy/23"
+      },
+      "24": {
+        "name": "X&Y Trainer Kit: Suicune",
+        "path": "xy/24"
+      },
+      "25": {
+        "name": "Fates Collide",
+        "path": "xy/25"
+      },
+      "26": {
+        "name": "Steam Siege",
+        "path": "xy/26"
+      },
+      "27": {
+        "name": "McDonald's Collection: 2016",
+        "path": "xy/27"
+      },
+      "28": {
+        "name": "Evolutions",
+        "path": "xy/28"
+      }
+    }
+  },
+  "13": {
+    "name": "Sun & Moon",
+    "img": "",
+    "index": [],
+    "sets": {}
+  },
+  "14": {
+    "name": "Sword & Shield",
+    "img": "",
+    "index": [],
+    "sets": {}
+  },
+  "15": {
+    "name": "Scarlet & Violet",
+    "img": "",
+    "index": [],
+    "sets": {}
+  }
+}

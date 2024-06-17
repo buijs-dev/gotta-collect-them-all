@@ -1,0 +1,17 @@
+{
+  "index": "X&Y",
+  "set": "Evolutions",
+  "release-data": "2016-11-02",
+  "cards": [
+    {
+      "id": 1,
+      "setId": 1,
+      "dexId": 3,
+      "image": "",
+      "rarity": "/card_rarity/[?]",
+      "name": "Venusaur EX",
+      "type": "/card_types/[4]",
+      "artist": "/card_artists/[2]"
+    }
+  ]
+}

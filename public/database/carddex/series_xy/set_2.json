@@ -1,0 +1,503 @@
+{
+  "series": "X&Y",
+  "set": "Kalos Starter Set",
+  "release-data": "2013-11-08",
+  "count": 39,
+  "cards": [
+    {
+      "key": 1,
+      "setId": 1,
+      "dexId": 13,
+      "name": "Weedle",
+      "type": 1,
+      "artist": 1,
+      "rarity": -1
+    },
+    {
+      "key": 2,
+      "setId": 2,
+      "dexId": 511,
+      "name": "Pansage",
+      "type": 1,
+      "artist": "",
+      "rarity": -1
+    },
+    {
+      "key": 3,
+      "setId": 3,
+      "dexId":650,
+      "name": "Chespin",
+      "type": 1,
+      "artist": "",
+      "rarity": -1
+    },
+    {
+      "key": 4,
+      "setId": 3,
+      "dexId":650,
+      "name": "Chespin",
+      "type": 2,
+      "artist": "",
+      "rarity": -1
+    },
+    {
+      "key": 5,
+      "setId": 4,
+      "dexId":651,
+      "name": "Quilladin",
+      "type": 1,
+      "artist": "",
+      "rarity": -1
+    },
+    {
+      "key": 6,
+      "setId": 4,
+      "dexId":651,
+      "name": "Quilladin",
+      "type": 2,
+      "artist": "",
+      "rarity": -1
+    },
+    {
+      "key": 7,
+      "setId": 5,
+      "dexId":652,
+      "name": "Chesnaught",
+      "type": 1,
+      "artist": "",
+      "rarity": -1
+    },
+    {
+      "key": 8,
+      "setId": 5,
+      "dexId":652,
+      "name": "Chesnaught",
+      "type": 2,
+      "artist": "",
+      "rarity": -1
+    },
+    {
+      "key": 9,
+      "setId": 6,
+      "dexId":218,
+      "name": "Slugma",
+      "type": 1,
+      "artist": "",
+      "rarity": -1
+    },
+    {
+      "key": 10,
+      "setId": 7,
+      "dexId": 513,
+      "name": "Pansear",
+      "type": 1,
+      "artist": "",
+      "rarity": -1
+    },
+    {
+      "key": 11,
+      "setId": 8,
+      "dexId": 653,
+      "name": "Fennekin",
+      "type": 2,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 12,
+      "setId": 8,
+      "dexId": 653,
+      "name": "Fennekin",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 13,
+      "setId": 9,
+      "dexId": 654,
+      "name": "Braixen",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 14,
+      "setId": 9,
+      "dexId": 654,
+      "name": "Braixen",
+      "type": 2,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 15,
+      "setId": 10,
+      "dexId": 655,
+      "name": "Delphox",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 16,
+      "setId": 10,
+      "dexId": 655,
+      "name": "Delphox",
+      "type": 2,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 17,
+      "setId": 11,
+      "dexId": 515,
+      "name": "Panpour",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 18,
+      "setId": 12,
+      "dexId": 656,
+      "name": "Froakie",
+      "type": 2,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 19,
+      "setId": 12,
+      "dexId": 656,
+      "name": "Froakie",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 20,
+      "setId": 13,
+      "dexId": 657,
+      "name": "Frogadier",
+      "type": 2,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 21,
+      "setId": 13,
+      "dexId": 657,
+      "name": "Frogadier",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 22,
+      "setId": 14,
+      "dexId": 658,
+      "name": "Greninja",
+      "type": 2,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 23,
+      "setId": 14,
+      "dexId": 658,
+      "name": "Greninja",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 24,
+      "setId": 15,
+      "dexId": 692,
+      "name": "Clauncher",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 25,
+      "setId": 16,
+      "dexId": 261,
+      "name": "Poochyena",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 26,
+      "setId": 17,
+      "dexId": 262,
+      "name": "Mightyena",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 27,
+      "setId": 18,
+      "dexId": 686,
+      "name": "Inkay",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 28,
+      "setId": 19,
+      "dexId": 624,
+      "name": "Pawniard",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 29,
+      "setId": 20,
+      "dexId": 625,
+      "name": "Bisharp",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 30,
+      "setId": 21,
+      "dexId": 679,
+      "name": "Honedge",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 31,
+      "setId": 22,
+      "dexId": 209,
+      "name": "Snubbull",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 32,
+      "setId": 23,
+      "dexId": 210,
+      "name": "Granbull",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 33,
+      "setId": 24,
+      "dexId": 684,
+      "name": "Swirlix",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 34,
+      "setId": 25,
+      "dexId": 83,
+      "name": "Farfetch'd",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 35,
+      "setId": 26,
+      "dexId": 143,
+      "name": "Snorlax",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 36,
+      "setId": 27,
+      "dexId": 241,
+      "name": "Miltank",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 37,
+      "setId": 28,
+      "dexId": 300,
+      "name": "Skitty",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 38,
+      "setId": 29,
+      "dexId": 399,
+      "name": "Bidoof",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 39,
+      "setId": 30,
+      "dexId": 659,
+      "name": "Bunnelby",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 40,
+      "setId": 31,
+      "dexId": 661,
+      "name": "Fletchling",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 41,
+      "setId": 32,
+      "dexId": 676,
+      "name": "Furfrou",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 42,
+      "setId": 33,
+      "dexId": 676,
+      "name": "Furfrou",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 43,
+      "setId": 34,
+      "dexId": -1,
+      "name": "Crushing Hammer",
+      "type": 2,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 44,
+      "setId": 34,
+      "dexId": -1,
+      "name": "Crushing Hammer",
+      "type": 3,
+      "artist": -1,
+      "rarity": -1,
+      "metadata": {
+        "stamped": "pokemon league"
+      }
+    },
+    {
+      "key": 45,
+      "setId": 34,
+      "dexId": -1,
+      "name": "Crushing Hammer",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 46,
+      "setId": 35,
+      "dexId": -1,
+      "name": "Poke Ball",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 47,
+      "setId": 36,
+      "dexId": -1,
+      "name": "Pokemon Catcher",
+      "type": 2,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 48,
+      "setId": 36,
+      "dexId": -1,
+      "name": "Pokemon Catcher",
+      "type": 3,
+      "artist": -1,
+      "rarity": -1,
+      "metadata": {
+        "stamped": "pokemon league"
+      }
+    },
+    {
+      "key": 49,
+      "setId": 36,
+      "dexId": -1,
+      "name": "Pokemon Catcher",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 50,
+      "setId": 37,
+      "dexId": -1,
+      "name": "Potion",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 51,
+      "setId": 38,
+      "dexId": -1,
+      "name": "Switch",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 52,
+      "setId": 39,
+      "dexId": -1,
+      "name": "Tierno",
+      "type": 2,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 53,
+      "setId": 39,
+      "dexId": -1,
+      "name": "Tierno",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1
+    },
+    {
+      "key": 54,
+      "setId": 39,
+      "dexId": -1,
+      "name": "Tierno",
+      "type": 1,
+      "artist": -1,
+      "rarity": -1,
+      "metadata": {
+        "stamped": "pokemon league"
+      }
+    }
+  ]
+}
